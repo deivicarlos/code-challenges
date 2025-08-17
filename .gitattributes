@@ -1,0 +1,8 @@
+* text=auto
+
+# Enforce LF for source files
+*.{js,jsx,ts,tsx,css,scss,md,json,yml,yaml} text eol=lf
+
+# (Optional) if you ever add Windows scripts:
+# *.bat text eol=crlf
+# *.cmd text eol=crlf
