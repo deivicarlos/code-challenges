@@ -1,11 +1,9 @@
-import { Button, HStack } from '@chakra-ui/react';
-
 const Demo = () => {
   return (
-    <HStack>
-      <Button>Click me</Button>
-      <Button colorPalette="teal">Click me</Button>
-    </HStack>
+    <div>
+      <button>Click me</button>
+      <button>Click me</button>
+    </div>
   );
 };
 
