@@ -2,6 +2,7 @@
   "tabWidth": 2,
   "endOfLine": "lf",
   "singleQuote": true,
+  "jsxSingleQuote": false,
   "trailingComma": "all",
   "printWidth": 100,
   "semi": true
